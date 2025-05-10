@@ -1,6 +1,6 @@
 # 🎮 Tic Tac Toe Game
 
-A simple **Tic Tac Toe (X-O) game built with **HTML, CSS, and JavaScript**. Play against your friend on the same screen and enjoy the classic fun!
+A simple Tic Tac Toe (X-O) game built with **HTML, CSS, and JavaScript. Play against your friend on the same screen and enjoy the classic fun!
 
 ---
 
