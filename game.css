@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+     background-color: #AAEFDF;
+     /* background-image: url("chintu.jpeg");
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-size: 100% 100%; */
+     text-align: center;
+}
+.container{
+    height: 70vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.game{
+    height: 60vmin;
+    width: 60vmin;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5vmin;
+}
+.box{
+    height: 18vmin;
+    width: 18vmin;
+    border-radius: 1rem;
+    border: none;
+    box-shadow: 0 0 1rem rgba(0,0,0,0.7);
+    font-size: 7vmin;
+    color:#9EE37D ;
+    background-color: #B298DC;
+}
+#reset{
+    padding: 1rem;
+    font-size: 1rem;
+    background-color: rgb(47, 44, 44);
+    border-radius: 1rem;
+    color: white;
+}
+#new{
+    padding: 1rem;
+    font-size: 1rem;
+    background-color: rgb(47, 44, 44);
+    border-radius: 1rem;
+    color: white;
+}
+
+#msg{
+    color: #B298DC;
+    font-size: 8vmin;
+}
+
+.msg{
+    height: 30vmin;
+}
+
+.hide{
+    display: none;
+}
+#owner{
+    color: black;
+    font-style:italic;
+margin: 5%;
+
+}
